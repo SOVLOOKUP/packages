@@ -20737,5 +20737,18 @@
     "description": "Simple nimble package to log monotic timings",
     "license": "MIT",
     "web": "https://github.com/Clonkk/timelog"
+  },
+  {
+    "name": "unim",
+    "url": "https://github.com/unimorg/unim",
+    "method": "git",
+    "tags": [
+      "ipfs",
+      "nim",
+      "appframework"
+    ],
+    "description": "Distributed application development framework base on ipfs.",
+    "license": "Apache-2.0",
+    "web": "https://github.com/unimorg/unim"
   }
 ]
